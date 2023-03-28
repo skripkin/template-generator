@@ -1,0 +1,19 @@
+{
+  "name": "template-generator",
+  "version": "1.0.0",
+  "description": "Templating generator for your project",
+  "main": "index.js",
+  "scripts": {
+    "tgen": "node index.js"
+  },
+  "author": {
+    "name": "Skripkin Eugene",
+    "url": "https://github.com/skripkin",
+    "email": "skripkin.eugene@gmail.com"
+  },
+  "keywords": ["template", "generator", "files"],
+  "license": "SFTG",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
