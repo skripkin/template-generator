@@ -4,7 +4,8 @@
   "description": "Templating generator for your project",
   "main": "index.js",
   "scripts": {
-    "tgen": "node index.js"
+    "tgen:start": "node index.js",
+    "tgen:create": "node create.js"
   },
   "author": {
     "name": "Skripkin Eugene",
